@@ -17,7 +17,8 @@ Running:
 	money they currently have and the user must enter a number greater than
 	0.
 	-After entering the amount of money you wish to bet, the program will 
-	give the user a card. Press enter to get another card or 'n' and enter to 	stop getting cards.
+	give the user a card. Press enter to get another card or 'n' and enter 
+	to stop getting cards.
 	-You win if you have a card value less then or equal to 21 and if your 
 	card value is greater than the dealer's card value.
 	-You lose if you hav a card value greater than 21 or if your card value
